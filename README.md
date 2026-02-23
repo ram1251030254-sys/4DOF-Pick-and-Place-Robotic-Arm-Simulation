@@ -131,6 +131,38 @@ This project can be extended into an advanced industrial-grade system:
 ## Preview
 <img width="768" height="646" alt="image" src="https://github.com/user-attachments/assets/490c9c68-acf1-4267-90a6-c7673ded26cb" />, <img width="768" height="646" alt="image" src="https://github.com/user-attachments/assets/93a15292-15ba-4b73-a972-45db05241803" />
 
+---
+
+## Author
+
+**Ram Kulkarni**  
+Engineering Student | Robotics & Automation Enthusiast  
+
+- Robotics & Industrial Automation  
+- AI, Computer Vision & Embedded Systems  
+- MATLAB | Python | Robotics Projects  
+
+LinkedIn: *(https://www.linkedin.com/in/ram-kulkarni-44a3743b1/)*  
+GitHub: *https://github.com/ram1251030254-sys*  
+
+---
+
+## Support
+
+If you found this project helpful:
+
+Star this repository  
+Fork and improve it  
+Share with robotics enthusiasts  
+
+---
+
+## License
+
+This project is open-source and available for educational and research purposes.
+
+---
+
 #Robotics
 #InverseKinematics
 #ForwardKinematics
